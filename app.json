@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "tauba",
+    "slug": "tauba",
+    "scheme": "tauba",
+    "version": "1.0.0",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "backgroundColor": "#042142",
+      "ios": {
+        "bundleIdentifier": "com.jordy.tauba",
+        "buildNumber": "1.0.0"
+      },
+      "android": {
+        "package": "com.jordy.tauba",
+        "versionCode": 1
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.jordy.tauba"
+    }
+  },
+  "name": "tauba"
+}
