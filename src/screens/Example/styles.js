@@ -14,3 +14,9 @@ export const Title = styled.Text`
   font-size: 24px;
   color: ${({ theme }) => theme.colors.paragraph};
 `;
+
+export const ButtonWrapper = styled.View`
+  margin-top: 10px;
+  flex-direction: row;
+  justify-content: space-between;
+`;

@@ -1,10 +1,10 @@
 export default {
   colors: {
-    primary: '#031229',
+    primary: '#fefefe',
     secondary: '#ff872c',
 
     title: '#363F5F',
-    paragraph: '#FEFEFE',
+    paragraph: '#363F5F',
     background: '#F0F2F5',
     backgroundContainer: '#042142',
   },
